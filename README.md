@@ -9,15 +9,8 @@
 </div>
 <div style="text-align: center;">
   <p style="text-align: center;">
-    I'm a <code>Data</code> enthusiast
-	  <br>
-	  [<a href="https://www.linkedin.com/in/aadiiy/" rel="nofollow"><strong>Linkedin</strong></a>]
-	  <br>
-	  and an amature artist.
-	  <br>
-	  [<a href="https://www.instagram.com/buburuzah/" rel="nofollow"><strong>Instagram</strong></a>]
-	  <br>
-	</p>
+  I'm a <code>Data</code> enthusiast and an amature artist.
+  </p>
 </div>
 <details style="text-align: center;">
   <summary style="text-align: center;">
