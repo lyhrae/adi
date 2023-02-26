@@ -40,14 +40,16 @@ Here are some ideas to get you started:
     <strong>
       :computer: &nbsp;Certified
     </strong>
-  </summary>
-  <br>
-  <div style="text-align: center;">
-  <!--
-    <a href="https://www.credly.com/badges/197b5887-fbf6-428e-888e-d9f7be81cc36/public_url" target="blank"><img src="https://user-images.githubusercontent.com/121610357/212710770-f93e7dee-95ec-4be1-9a00-12f37fe3ba0c.png" alt="Data Analysis with Python" width="90" align="center"></a>&nbsp;<a href="https://www.credly.com/badges/bc29df3a-361f-4d86-a49d-4e89ebb26a40/public_url" target="blank"><img src="https://user-images.githubusercontent.com/121610357/212711128-6171a647-b028-4877-8302-b7b1c1a4cb15.png" alt="Data Visualization with Python" width="90" align="center"></a>&nbsp;<a href="https://www.credly.com/badges/1c93a6e4-d881-491c-91dd-69697ad1580c/public_url" target="blank"><img src="https://user-images.githubusercontent.com/121610357/212707630-49ef1c8d-8de6-48a9-be31-68941f8ab21a.png" alt="Databases and SQL for Data Science" width="90" align="center"></a>
-    -->
-    </div>
-</details>
+  </summary><br>
+	<div style="text-align: center;">
+		[<a href="https://www.freecodecamp.org/fcc61364c53-8b29-4222-973d-72b64acb5576" rel="nofollow"><strong>Data Analysis with Python</strong></a>]
+		<br>
+		[<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/88BRESKN9RRN" rel="nofollow"><strong>IBM Data Analyst Specialization</strong></a>]
+	  <br>
+		[<a href="https://www.linkedin.com/learning/advanced-microsoft-power-bi-16007117" rel="nofollow"><strong>Advanced Microsoft Power BI</strong></a>]
+		<br>
+	</div>
+<br></details>
     
 ```python
     class WhoAmI :
@@ -59,5 +61,7 @@ Here are some ideas to get you started:
 	  # Assume 10 more awesome hobbies here
 	  ]  
 ```
+<!--
 <div style="text-align: left;">
 	<img style="float: left;" src="https://spotify-github-profile.vercel.app/api/view?uid=fmoqv38s4oo6pq4o0hp1ifyb2&amp;cover_image=false&amp;theme=default" width="160"></div>
+-->
