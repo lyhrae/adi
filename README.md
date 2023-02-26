@@ -1,19 +1,3 @@
-<!--
-### Hi there 👋
-
-**aadiiy/aadiiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div style="text-align: center;">
   <img src="https://media.giphy.com/media/3IcbXNHDIZQRy/giphy.gif" height="25"><img src="https://media.giphy.com/media/Hh2eCJrqIhAWKQVNS6/giphy.gif" height="25"><img src="https://media.giphy.com/media/RlN0iTfRZ8Mm0iba4Z/giphy.gif" height="25"><img src="https://media.giphy.com/media/QWrCFpI965negKDo0n/giphy.gif" height="25"><img src="https://media.giphy.com/media/2YjZ5VQ3mTa4H5gQx1/giphy.gif" height="25"><img src="https://media.giphy.com/media/bh9uUHXj6xMRhMkRJg/giphy.gif" height="25"><img src="https://media.giphy.com/media/vRz8PBuHHjz9ijcGbj/giphy.gif" height="25">
 </div>
@@ -61,7 +45,3 @@ Here are some ideas to get you started:
 	  # Assume 10 more awesome hobbies here
 	  ]  
 ```
-<!--
-<div style="text-align: left;">
-	<img style="float: left;" src="https://spotify-github-profile.vercel.app/api/view?uid=fmoqv38s4oo6pq4o0hp1ifyb2&amp;cover_image=false&amp;theme=default" width="160"></div>
--->
