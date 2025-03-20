@@ -9,7 +9,7 @@
 </div>
 <div style="text-align: center;">
   <p style="text-align: center;">
-  I'm a <code>Data</code> enthusiast and an amature artist.
+  I'm a recent MBA graduate 🤓 keen on <code>Digital Marketing, Social Media Management and Branding</code> and sometimes data 😝.
   </p>
 </div>
 <details style="text-align: center;">
